@@ -13,6 +13,8 @@ I'll need RStudio Server!  So my Docker container will need to run RStudio Serve
 
 ## Instructions
 
+You will need [Docker](https://docs.docker.com/engine/install/) installed on your computer.
+
 ```
 docker compose up -d
 ```
